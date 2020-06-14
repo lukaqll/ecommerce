@@ -6,8 +6,8 @@ use Rain\Tpl;
 
 class Mailer {
 	
-	const USERNAME = "lukaquinellato@gmail.com";
-	const PASSWORD = "luka0476";
+	const USERNAME = "exemple@gmail.com";
+	const PASSWORD = "";
 	const NAME_FROM = "Qnll Store";
 
 	private $mail;

@@ -1,5 +1,9 @@
 # Projeto E-commerce
 
-Projeto desenvolvido do zero no [Curso de PHP 7](https://www.udemy.com/curso-completo-de-php-7/) disponível na plataforma da Udemy e no site do [HTML5dev.com.br](https://www.html5dev.com.br/curso/curso-completo-de-php-7).
+a personal project for learning.
 
-Template usado no projeto [Almsaeed Studio](https://almsaeedstudio.com)
+an online store with administrative area, login system and creation of adm or not account, shopping cart, freight calculation (Brazil).
+
+Uses PHP7 as a Back-end and HTML5, CSS3 and Jquery and MySql Front-end as a database
+
+Template: [Almsaeed Studio](https://almsaeedstudio.com)
